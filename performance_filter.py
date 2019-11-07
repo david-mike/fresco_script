@@ -8,7 +8,7 @@
 #                          same directory as this script is located in, or users may change the
 #                          paths of the source file and output file at the beginning of the code)
 #
-# Author: Jizhou Chen - JZChen@purdue.edu
+# Author: David Cheng - cheng305@purdue.edu
 #
 # Last Modified: 03/03/2019
 ####################################################################################################
